@@ -7,7 +7,7 @@ RESTful API สำหรับระบบจองอุปกรณ์ภา�
 ## 🌐 Base API URLs
 
 - **Local Development:** `http://localhost:8787/api`
-- **Production (Cloudflare Workers):** `https://midterm-api.6731503122-scholarship.workers.dev/api`
+- **Production (Cloudflare Workers):** `https://midterm-api.6731503107-transport-parking-db.workers.dev/api`
 
 ---
 
